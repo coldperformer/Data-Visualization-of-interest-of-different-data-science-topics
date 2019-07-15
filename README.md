@@ -3,9 +3,12 @@ This visualizaion is based on interest of people on different data science topic
 
 # Requirements
 Python 3.6 or higher
+
 Jupyter Notebook
 
 # Libraries Used
 Pandas
+
 Numpy
+
 Matplotlib
